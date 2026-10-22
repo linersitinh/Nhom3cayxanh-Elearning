@@ -1,0 +1,1 @@
+Xem README.vi.md. Can PHP 8.3+, Composer 2, MySQL 8.0.16+, pdo_mysql. Nhan dup start_windows.bat de cai dependencies, migrate/seed va chay server.
